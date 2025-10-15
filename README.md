@@ -1,5 +1,6 @@
-<img width="764" height="436" alt="graph 1" src="https://github.com/user-attachments/assets/28b4ca00-fd46-4693-8a3a-052f41af1775" />
 🧾 Dashboard de Vendas — Power BI (2021–2023)
+
+<img width="764" height="436" alt="graph 1" src="https://github.com/user-attachments/assets/28b4ca00-fd46-4693-8a3a-052f41af1775" />
 
 Este projeto apresenta um painel interativo desenvolvido no Power BI com dados de vendas entre 2021 e 2023.
 Os dados foram importados via arquivos CSV, passando por um processo de limpeza e unificação antes da criação dos gráficos.
